@@ -1,4 +1,4 @@
-# JAVA_2019
+# JAVA
 
 ### Languages : Java
 ### Practice Coding
