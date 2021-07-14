@@ -1,6 +1,6 @@
 # JAVA
 
 ### Languages : Java
-### Development Tool : Atom
+### Development Environment : Atom
 ### Practice Coding
 ### Assignment
