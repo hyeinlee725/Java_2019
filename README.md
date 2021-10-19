@@ -2,5 +2,4 @@
 
 ### Languages : Java
 ### Development Environment : Atom
-### Practice Coding
-### Assignment
+### Practice Coding & Assignment
