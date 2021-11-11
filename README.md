@@ -1,5 +1,5 @@
 # JAVA
 
-### Languages : Java
+### Programming Language : Java
 ### Development Environment : Atom
 ### Practice Coding & Assignment
